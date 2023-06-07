@@ -12,6 +12,6 @@ The main functions I have used to create this map are (User can give year and qu
  
  
  
- It is used a 2018 to 2022 data it available for more then 10 filter functions User count, User Transections
+ It is used a 2018 to 2022 data it available for  filter functions User count, User Transections
 
 Geo-Graphical Map Geo Graphical map is show a transection of states total amount or total count of users in year wise and quarter wise
